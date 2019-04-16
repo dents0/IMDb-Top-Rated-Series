@@ -10,9 +10,9 @@ Deniss Tsokarev
 
 Description
 -----------
-This sript uses Python modules **Requests**, **Beautiful Soup 4** and **Pandas** to scrape [IMDb](https://www.imdb.com/) for it's top rated TV shows and saves the information in Excel-file.
+This script uses Python modules **Requests**, **Beautiful Soup 4** and **Pandas** to scrape [IMDb](https://www.imdb.com/) for it's top rated TV shows and saves the information in Excel-file.
 
-The information includes show's **rank**, **title**, release **year**, **raiting** and the number of **votes**.
+The information includes show's **rank**, **title**, release **year**, **rating** and the number of **votes**.
 
 Requirements
 ------------
@@ -26,7 +26,7 @@ Modules:
 
 How to use
 ----------
-1) Running **series_raiting.py** will print out in a command-line interpreter 250 top rated TV shows according to IMDb:
+1) Running **series_rating.py** will print out in a command-line interpreter 250 top rated TV shows according to IMDb:
 
 ![terminal](https://user-images.githubusercontent.com/28843507/56235191-39ea0400-6087-11e9-9b40-086189ef2458.PNG)
 
