@@ -21,7 +21,7 @@ Python 3.x
 Modules:
 
 * [Requests](http://docs.python-requests.org/en/master/)
-* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 
 How to use
