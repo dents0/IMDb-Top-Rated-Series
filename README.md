@@ -1,6 +1,6 @@
 Scraping IMDb Top Rated TV Shows
 ================================
-Licensing information: READ LICENSE
+Licensing information: READ LICENCE
 ----
 Project source can be downloaded from https://github.com/dents0/IMDb-Top-Rated-Series.git
 ----
